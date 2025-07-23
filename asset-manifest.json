@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sanitizer/static/css/main.e6c13ad2.css",
+    "main.js": "/sanitizer/static/js/main.914c2978.js",
+    "static/js/453.57a13ddb.chunk.js": "/sanitizer/static/js/453.57a13ddb.chunk.js",
+    "index.html": "/sanitizer/index.html",
+    "main.e6c13ad2.css.map": "/sanitizer/static/css/main.e6c13ad2.css.map",
+    "main.914c2978.js.map": "/sanitizer/static/js/main.914c2978.js.map",
+    "453.57a13ddb.chunk.js.map": "/sanitizer/static/js/453.57a13ddb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.914c2978.js"
+  ]
+}
